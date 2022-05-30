@@ -1,6 +1,6 @@
 # 0.0.4
 
-- flow via fork
+- flow via fork (v0.0.4)
 
 # 0.0.3
 
